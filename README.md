@@ -61,7 +61,7 @@ Pour supprimer, appuyer sur le bouton delete du clavier
 
 ## Lastest Release
 
->la version beta  [aterel_v.0.0.1.beta.exe](https://github.com/bienfaitshm/aterelproject/releases/tag/v0.2.0-alpha)
+>aterel.v0.2.0-alpha basic  [aterel_v.0.0.1.beta.exe](https://github.com/bienfaitshm/aterelproject/releases/tag/v0.2.0-alpha)
 
 ## Devs contacts
 
