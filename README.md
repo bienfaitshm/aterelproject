@@ -1,6 +1,6 @@
-# Alterell
+# Aterel
 
-> alterell est une application des gestions des contrats de clients elle a comme fonctionnalite
+> aterel est une application des gestions des contrats de clients elle a comme fonctionnalite
 
 1. Lire les contrats deja enregistrer
 2. Rechercher/ Refresh les contrat par leurs noms
