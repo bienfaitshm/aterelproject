@@ -1,0 +1,42 @@
+MANIKA, Q/LATIN
+VILLE DE KOLWEZI, LUALABA, RDC
+REF(3e PARCELLE avant CASINO ROYAL)
+SERVICE CLIENT: +243816994448, +243974406506,+19045720001
+WHATSAPP: +243972555466
+FACEBOOK: Aterell solar
+aterellsolor@gmail.com
+
+CONTRAT
+
+Nom:
+Numeri ID:
+Telephone:
+Adresse
+Montant Total:
+Montant Percu:
+Montant restant:
+
+
+?PHP
+
+require('fpdf.php');
+
+$pdf = new FPDF();
+$pdf->AddPage('P', 'A4');
+$pdf->SetAutoPageBreak(true, 10);
+$pdf->SetFont('Arial', '', 12);
+$pdf->SetTopMargin(10);
+$pdf->SetLeftMargin(10);
+$pdf->SetRightMargin(10);
+
+
+/* --- MultiCell --- */
+/* --- Cell --- */
+$pdf->SetXY(11, 84);
+$pdf->SetFontSize(20);
+$pdf->Cell(189, 8, 'CONTRAT', 'B', 1, 'C', false);
+/* --- MultiCell --- */
+
+
+$pdf->Output('created_pdf.pdf','I');
+?>
