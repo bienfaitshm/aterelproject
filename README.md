@@ -55,9 +55,13 @@ Pour supprimer, appuyer sur le bouton delete du clavier
 
 ![home screen!](./docs/errorFormScreenWhite.jpg "home screen")
 
-## Setup build
+### Contrat PDf
 
->la version beta  [aterel_v.0.0.1.beta.exe](./docs/aterel_v.0.0.1.beta.exe)
+![pdf contrat!](./docs/pdf_%20contrat.jpg "home screen")
+
+## Lastest Release
+
+>la version beta  [aterel_v.0.0.1.beta.exe](https://github.com/bienfaitshm/aterelproject/releases/tag/v0.2.0-alpha)
 
 ## Devs contacts
 
